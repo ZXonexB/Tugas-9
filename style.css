@@ -179,3 +179,9 @@ input[type=submit] {
         text-align: center;
     }
 }
+
+@media screen and (max-width: 370px) {
+    .forms {
+        margin: 0 10px;
+    }
+}
